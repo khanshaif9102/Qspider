@@ -2,7 +2,7 @@ package core.Array;
 
 public class Array_Init {
 	public static void main(String[] args) {
-		int a[]= {10,20,30,50};
+		int a[]= {10,20,30,50,60};
 		for(int i=0;i<a.length;i++) {
 			System.out.println(a[i]);
 		}
